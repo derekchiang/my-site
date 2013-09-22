@@ -1,7 +1,5 @@
 # Essays
 
-Keep in mind that all posts published on The Sun have been edited by the editors, so the tone often doesn't quite sound like me :P
-
 1. Coding
 
 	TODO
