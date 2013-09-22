@@ -1,6 +1,6 @@
 # Essays
 
-I should write more.
+Keep in mind that all posts published on The Sun have been edited by the editors, so the tone often doesn't quite sound like me :P
 
 1. Coding
 
@@ -12,7 +12,7 @@ I should write more.
 
 3. Tech
 
-	TODO
+	[Setting Startup Misconceptions Straight](http://cornellsun.com/blog/2013/09/13/chiang-setting-startup-misconceptions-straight/)
 
 4. Random Thoughts
 
