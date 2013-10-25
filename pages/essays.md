@@ -2,7 +2,7 @@
 
 1. Coding
 
-	TODO
+	[Why You Should Be Working on Open-Source Software](http://cornellsun.com/blog/2013/10/25/chiang-why-you-should-be-working-on-open-source-software/)
 
 2. Cornell
 
