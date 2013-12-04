@@ -1,5 +1,7 @@
 # About
 
+##### ![](/images/me.jpg)
+
 My name is Derek Chiang (姜恩池 in Chinese).
 
 I'm a coder, software engineer, computer scientist, whatever you call it.  My laptop is an extension of my body; Internet that of my mind.
