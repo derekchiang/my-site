@@ -12,4 +12,4 @@ When I'm not coding or reading technical papers, you will most likely find me pl
 
 Duplications are bad, so please refer to [LinkedIn](http://www.linkedin.com/in/derekchiang93) for my résumé and [Github](https://github.com/derekchiang) for my (public) projects.
 
-( this site is updated roughly once every 3 months, so you don't have to check it every hour )
+( this site is almost never updated, so you don't have to check it every hour )
