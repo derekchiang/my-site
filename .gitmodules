@@ -1,0 +1,3 @@
+[submodule "pages/paper-reviews"]
+	path = pages/paper-reviews
+	url = https://github.com/derekchiang/Paper-Reviews
