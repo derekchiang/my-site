@@ -8,7 +8,7 @@ I'm a coder, software engineer, computer scientist, whatever you call it.  My la
 
 I'm currently a junior at Cornell studying computer science (surprise!!). I'm especially interested in [distributed systems](http://en.wikipedia.org/wiki/Distributed_computing), which is basically the study of a network of computers.
 
-When I'm not coding or reading technical documents, you will most likely find me playing (or watching)) basketball, chess, or video games.
+When I'm not coding or reading technical documents, you will most likely find me playing (or watching) basketball, chess, or video games.
 
 Duplications are bad, so please refer to [LinkedIn](http://www.linkedin.com/in/derekchiang93) for my résumé and [Github](https://github.com/derekchiang) for my (public) projects.
 
