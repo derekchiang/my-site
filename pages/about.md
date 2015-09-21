@@ -6,7 +6,7 @@ My name is Derek Chiang (姜恩池 in Chinese).
 
 I'm a coder, software engineer, computer scientist, whatever you call it.  My laptop is an extension of my body; Internet that of my mind.
 
-I'm currently a junior at Cornell studying computer science (surprise!!). I'm especially interested in [distributed systems](http://en.wikipedia.org/wiki/Distributed_computing), which is basically the study of a network of computers.
+I'm currently a senior at Cornell studying computer science (surprise!!). I'm especially interested in [distributed systems](http://en.wikipedia.org/wiki/Distributed_computing), which is basically the study of a network of computers.
 
 When I'm not coding or reading technical documents, you will most likely find me playing (or watching) basketball, chess, or video games.
 
